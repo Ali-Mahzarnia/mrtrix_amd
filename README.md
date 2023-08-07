@@ -1,4 +1,4 @@
-# Explanation for the Python script:
+# Explanation for the Python Pipeline script:
 
 This Python script is used for processing diffusion-weighted imaging (DWI) data and creating a connectome from the processed data. It involves several steps, including data preprocessing, estimation of basis functions, computing fiber orientation distributions (FODs), creating and sifting streamlines, and generating connectomes. Below is a step-by-step explanation of the code:
 
